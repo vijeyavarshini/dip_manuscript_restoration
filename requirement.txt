@@ -1,0 +1,8 @@
+numpy
+opencv-python
+matplotlib
+scikit-image
+notebook
+h5py
+tensorflow
+keras
